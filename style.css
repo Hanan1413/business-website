@@ -331,6 +331,12 @@ p.socials {
     }
 }
 
+.carousel-caption{
+    bottom:200px;
+          height:50vh;
+
+}
+
 
 
 
@@ -338,12 +344,12 @@ p.socials {
 
 }
 
-@media only screen and (max-width:375px){
+@media only screen and (max-width:540px){
 
 .carousel-caption{
     margin-bottom:0px;
 
-          height:30vh;
+          height:35vh;
 
 }    
 }
